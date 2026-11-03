@@ -1,1 +1,3 @@
-# Cerillo_IvanPaul_Lab4_ExploringXml
+### Questions for Reflection:
+
+[View XML Reflection Document](xml_reflection.docx)
